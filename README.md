@@ -2,11 +2,17 @@
 Olá, mundo. <img src="https://raw.githubusercontent.com/Veidoido/Veidoido/main/images/hi.gif" height="30px">
 </h1>
 
-<h4 align="center">
- Sou a Sara Vila Real, tenho 21 anos e sou estudante de Ciência da Computação na Unisagrado, tenho interesse em novas experiências principalmente na área de desenvolvimento para colocar em prática todo o conhecimento adquirido diariamente através das aulas e cursos realizados.
-</h4>
-<h4 align="center">
-Através do GitHub, pretendo atualizar os meus repositórios com base nas atividades realizadas durante meu período na faculdade e também com os meus projetos pessoais.
+👋 Sou Sara Vila Real, estudante de Ciência da Computação e apaixonada por Frontend.
+
+💻 Atualmente, estou explorando o vasto mundo da programação e design de interfaces.
+
+📚 Estou em constante busca por aprimorar minhas habilidades em HTML, CSS e JavaScript, construindo soluções criativas para desafios do mundo real.
+
+🚀  Aqui você encontrará meus projetos academicos e experimentos em desenvolvimento Frontend, bem como minhas aventuras em diferentes linguagens.
+
+🤝 Vamos nos conectar e construir o futuro da web de forma inclusiva e criativa!
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
